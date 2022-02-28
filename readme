@@ -1,0 +1,10 @@
+readpdf data convert i into json:
+using camelot-py:library that can help to extract tables from pdf
+pdfminer
+pic item using panda:data.iloc[11][2]
+[11]:for row
+[2]:for column
+after that convert it into dictionary:
+this dict={}
+dumps into json using:y=json.dumps(this dict,indent=2)
+                      print(y)
